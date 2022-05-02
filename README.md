@@ -2,7 +2,7 @@
 This repository contains a token contract, PanaromaToken.sol, TimeLockedWallet.sol and TimeLockedWalletFactory.sol contracts with creation if time locked wallets and withdraw functions bounded by timestamps. 
 
 
-Smart Contract Solutions
+**Smart Contract Solutions**
 
 icoapp.panaroma.finance Dapp have three basic contracts,
 
@@ -14,7 +14,7 @@ icoapp.panaroma.finance Dapp have three basic contracts,
 
 
 
-Payment Methods
+**Payment Methods**
 
 Panaroma.finance Pay for Business supports payments using icoapp.panaroma.finance App and other cryptocurrency wallets.
 
@@ -23,7 +23,7 @@ A Panaroma.finance App user can simply use the icoapp.panaroma.finance App (avai
 Customers can also pay with other cryptocurrency wallets other than icoapp.panaroma.finance App, such as MetaMask, Panaroma.finance Dapp wallet or Ledger, etc to pay. Please note that the customers will have to bear the network fees when they choose to pay using methods other than icoapp.panaroma.finance Dapp wallet.
 
 
-Subcription flow
+**Subcription flow**
 
 icoapp.panaroma.finance App does hold tilelocked wallets such as TimeLockedWallet and TimeLockedWalletFactory. The flow of customers subscription can be understood in 4 basic steps:
 
